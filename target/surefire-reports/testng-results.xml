@@ -2,19 +2,19 @@
 <testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Surefire suite" duration-ms="46" started-at="2018-06-22T07:49:26Z" finished-at="2018-06-22T07:49:26Z">
+  <suite name="Surefire suite" duration-ms="58" started-at="2018-06-22T08:51:53Z" finished-at="2018-06-22T08:51:53Z">
     <groups>
     </groups>
-    <test name="Surefire test" duration-ms="46" started-at="2018-06-22T07:49:26Z" finished-at="2018-06-22T07:49:26Z">
+    <test name="Surefire test" duration-ms="58" started-at="2018-06-22T08:51:53Z" finished-at="2018-06-22T08:51:53Z">
       <class name="Test.ATest">
-        <test-method status="PASS" signature="two()[pri:0, instance:Test.ATest@79b4d0f]" name="two" duration-ms="0" started-at="2018-06-22T07:49:26Z" finished-at="2018-06-22T07:49:26Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- two -->
-        <test-method status="PASS" signature="one()[pri:0, instance:Test.ATest@79b4d0f]" name="one" duration-ms="0" started-at="2018-06-22T07:49:26Z" finished-at="2018-06-22T07:49:26Z">
+        <test-method status="PASS" signature="one()[pri:0, instance:Test.ATest@79b4d0f]" name="one" duration-ms="9" started-at="2018-06-22T08:51:53Z" finished-at="2018-06-22T08:51:53Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- one -->
+        <test-method status="PASS" signature="two()[pri:0, instance:Test.ATest@79b4d0f]" name="two" duration-ms="0" started-at="2018-06-22T08:51:53Z" finished-at="2018-06-22T08:51:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- two -->
       </class> <!-- Test.ATest -->
     </test> <!-- Surefire test -->
   </suite> <!-- Surefire suite -->
